@@ -1,2 +1,2 @@
-# Bateria
-Simulador de bateria (instrumento musical)
+# Drum/ Bateria
+Drum simulator made with HTML/CSS/JS
